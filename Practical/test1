@@ -1,0 +1,4 @@
+little = { "x", "y", "z" }
+big = { "z" , "u", "t", "y", "w", "x" }
+if little < big:
+    print(
